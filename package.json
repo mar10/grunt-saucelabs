@@ -28,7 +28,7 @@
     "lodash": "^4.17.11",
     "q": "~1.4.1",
     "requestretry": "~1.9.0",
-    "sauce-tunnel": "~2.5.0",
+    "sauce-tunnel": "mar10/sauce-tunnel#update_4.5.3",
     "saucelabs": "^1.5.0"
   },
   "peerDependencies": {
